@@ -4,12 +4,10 @@ C:\Users\PC\Documents\programa-gym\bin\Debug\net9.0-windows\GymBookingApp.runtim
 C:\Users\PC\Documents\programa-gym\bin\Debug\net9.0-windows\GymBookingApp.dll
 C:\Users\PC\Documents\programa-gym\bin\Debug\net9.0-windows\GymBookingApp.pdb
 C:\Users\PC\Documents\programa-gym\obj\Debug\net9.0-windows\GymBookingApp.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\PC\Documents\programa-gym\obj\Debug\net9.0-windows\GymBookingApp.AssemblyInfoInputs.cache
-C:\Users\PC\Documents\programa-gym\obj\Debug\net9.0-windows\GymBookingApp.AssemblyInfo.cs
 C:\Users\PC\Documents\programa-gym\obj\Debug\net9.0-windows\GymBookingApp.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\programa-gym\obj\Debug\net9.0-windows\GymBookingApp.sourcelink.json
 C:\Users\PC\Documents\programa-gym\obj\Debug\net9.0-windows\GymBookingApp.dll
 C:\Users\PC\Documents\programa-gym\obj\Debug\net9.0-windows\refint\GymBookingApp.dll
 C:\Users\PC\Documents\programa-gym\obj\Debug\net9.0-windows\GymBookingApp.pdb
 C:\Users\PC\Documents\programa-gym\obj\Debug\net9.0-windows\GymBookingApp.genruntimeconfig.cache
 C:\Users\PC\Documents\programa-gym\obj\Debug\net9.0-windows\ref\GymBookingApp.dll
-C:\Users\PC\Documents\programa-gym\obj\Debug\net9.0-windows\GymBookingApp.sourcelink.json
