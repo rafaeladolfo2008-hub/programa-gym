@@ -12,3 +12,4 @@ C:\Users\PC\Documents\programa-gym\obj\Debug\net9.0-windows\refint\GymBookingApp
 C:\Users\PC\Documents\programa-gym\obj\Debug\net9.0-windows\GymBookingApp.pdb
 C:\Users\PC\Documents\programa-gym\obj\Debug\net9.0-windows\GymBookingApp.genruntimeconfig.cache
 C:\Users\PC\Documents\programa-gym\obj\Debug\net9.0-windows\ref\GymBookingApp.dll
+C:\Users\PC\Documents\programa-gym\obj\Debug\net9.0-windows\GymBookingApp.sourcelink.json
